@@ -22,9 +22,9 @@ do {
   do {
     Console.WriteLine("Do you want to play again? (Please enter \"yes\" or \"no\")");
     response = Console.ReadLine().ToLower();
-  } while (response != "yes" && response != "no");
+  } while (response != "yes" && response != "no" && response != "y" && response != "n");
 
-  if (response == "no") {
+  if (response == "no" || response == "n") {
     playAgain = false;
     Console.WriteLine("\nGoodbye then!");
   } else {
