@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/bin/Debug/net6.0/AMannAskingQuestions
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/bin/Debug/net6.0/AMannAskingQuestions.deps.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/bin/Debug/net6.0/AMannAskingQuestions.runtimeconfig.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/bin/Debug/net6.0/AMannAskingQuestions.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/bin/Debug/net6.0/AMannAskingQuestions.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/refint/AMannAskingQuestions.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/AMannAskingQuestions.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/Debug/net6.0/ref/AMannAskingQuestions.dll
