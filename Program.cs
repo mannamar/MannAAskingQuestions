@@ -8,7 +8,7 @@ Console.Clear();
 bool playAgain = true;
 
 do {
-  Console.WriteLine("\nHey bud. What's your name?");
+  Console.WriteLine("Hey bud. What's your name?");
 
   string userName = Console.ReadLine();
 
@@ -27,6 +27,8 @@ do {
   if (response == "no") {
     playAgain = false;
     Console.WriteLine("\nGoodbye then!");
+  } else {
+    Console.WriteLine("");
   }
 
 } while (playAgain);
