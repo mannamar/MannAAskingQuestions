@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/AMannAskingQuestions.csproj": {}
+    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAskingQuestions/AMannAskingQuestions.csproj": {}
   },
   "projects": {
-    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/AMannAskingQuestions.csproj": {
+    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAskingQuestions/AMannAskingQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/AMannAskingQuestions.csproj",
+        "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAskingQuestions/AMannAskingQuestions.csproj",
         "projectName": "AMannAskingQuestions",
-        "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/AMannAskingQuestions.csproj",
+        "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAskingQuestions/AMannAskingQuestions.csproj",
         "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-        "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAskingQuestions/obj/",
+        "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAskingQuestions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
