@@ -1,3 +1,3 @@
-# AMannAskingQuestions
+# MannAAskingQuestions
 
 Peer reviewed by :
